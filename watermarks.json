@@ -1,0 +1,23 @@
+{
+  "site": {
+    "owner": "여양고등학교 김동욱",
+    "domain": "yeoyangcourselab.vercel.app"
+  },
+  "watermarks": [
+    {
+      "id": "21f3824c124e",
+      "ts": "2026-07-01T03:27:14.108Z",
+      "hash": "3e0bf73b10f80d7657bf95e950d8b8c01f6bdfbb00690b4f1659cffebafff484",
+      "payload": {
+        "v": 1,
+        "id": "21f3824c124e",
+        "owner": "여양고등학교 김동욱",
+        "domain": "yeoyangcourselab.vercel.app",
+        "ts": "2026-07-01T03:27:14.108Z"
+      },
+      "files": [
+        "index.html"
+      ]
+    }
+  ]
+}

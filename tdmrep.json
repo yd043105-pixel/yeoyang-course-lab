@@ -1,0 +1,7 @@
+[
+  {
+    "location": "/",
+    "tdm-reservation": 1,
+    "tdm-policy": "https://yeoyangcourselab.vercel.app/llms.txt"
+  }
+]
